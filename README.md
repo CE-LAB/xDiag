@@ -1,2 +1,2 @@
 # xDiag
-Diagnostic pages for servrs
+Diagnostic pages for servers
